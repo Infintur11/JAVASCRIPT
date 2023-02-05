@@ -1,0 +1,19 @@
+body{
+    background: rgb(0, 0, 0);
+}
+
+.clock{
+    background-color: rgb(39, 37, 37);
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);  /*if value is negative it brings back from 0 and i positve it throws */
+    color:#17D4FE;
+    font-size: 70px;
+    letter-spacing: 8px;
+    border-radius: 10px;
+    margin: 20px;
+    padding:15px;
+    border-color: rgb(51, 158, 158);
+    border-style: dotted;
+}
