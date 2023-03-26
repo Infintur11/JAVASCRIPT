@@ -1,0 +1,24 @@
+body{
+    background-color: green;
+}
+h1{
+    text-align: center;
+    color: yellowgreen;
+    font-size: 60px;
+    font-family:'Courier New', Courier, monospace;
+}
+p{
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+}
+button{
+    color: #016f32;
+    width:150px;
+    background: goldenrod;
+    padding: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
